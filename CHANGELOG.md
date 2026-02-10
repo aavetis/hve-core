@@ -12,6 +12,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 > **Note:** This file is automatically maintained by [release-please](https://github.com/googleapis/release-please). Do not edit manually.
 
+## [2.3.0](https://github.com/microsoft/hve-core/compare/hve-core-v2.2.0...hve-core-v2.3.0) (2026-02-10)
+
+
+### ✨ Features
+
+* **agents:** add GitHub backlog management pipeline ([#448](https://github.com/microsoft/hve-core/issues/448)) ([2b4d123](https://github.com/microsoft/hve-core/commit/2b4d1232f1fef5f2c858ccec23582bfed93db47f))
+* **docs:** define inactivity closure policies for issues and PRs ([#452](https://github.com/microsoft/hve-core/issues/452)) ([5e710fd](https://github.com/microsoft/hve-core/commit/5e710fdb389632283bc50eb17c31b34d4d7535f1))
+
+
+### 📚 Documentation
+
+* align CONTRIBUTING.md with docs/contributing/ guides ([#445](https://github.com/microsoft/hve-core/issues/445)) ([73ef6aa](https://github.com/microsoft/hve-core/commit/73ef6aa63b2e39a58d605edff87caba1fbc1cc46))
+
+
+### 🔧 Maintenance
+
+* **deps-dev:** bump cspell from 9.6.2 to 9.6.4 in the npm-dependencies group ([#461](https://github.com/microsoft/hve-core/issues/461)) ([c788095](https://github.com/microsoft/hve-core/commit/c7880959cb62f5cea343506b9bbe8dc5b39f78a6))
+* **deps:** bump actions/setup-python from 5.1.1 to 6.2.0 in the github-actions group ([#462](https://github.com/microsoft/hve-core/issues/462)) ([69ef3c9](https://github.com/microsoft/hve-core/commit/69ef3c9217f1b4e0f8bc46c7f553e9ed6f62ed92))
+
 ## [2.2.0](https://github.com/microsoft/hve-core/compare/hve-core-v2.1.0...hve-core-v2.2.0) (2026-02-06)
 
 
